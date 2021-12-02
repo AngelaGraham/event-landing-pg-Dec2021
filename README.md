@@ -1,9 +1,9 @@
-# bootstrap-boilerplatereadme
-## Cloning a Repo
+# Event Landing Page
+## Learning Bootstrap
 
  Steps to clone repo
 (navigate to your project folder in your terminal)
-  git clone github.com/AngelaGraham/ bootstrap-boilerplate.git
+  git clone github.com/AngelaGraham/ event-landing-pg-Dec21.git
   git add .
   git commit -m "init commit"
   git push -u origin main
